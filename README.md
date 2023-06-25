@@ -1,7 +1,7 @@
 # MySQL_End-Project_EE_DSML_Navaneeth-Krishnan-S_B1-ADV
 MySQL end project of Entri-Elevate DSML
 
-Here I build a project based on Library Management System using MySQL. It keeps 
+Here I did a project based on Library Management System using MySQL. It keeps 
 track all information about books in the library, their cost, status and total 
 number of books available in the library
 
